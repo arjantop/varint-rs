@@ -1,0 +1,7 @@
+[package]
+name = "varint"
+version = "0.0.1"
+authors = ["Arjan Topolovec <arjan.top@gmail.com"]
+
+[lib]
+name = "varint"
